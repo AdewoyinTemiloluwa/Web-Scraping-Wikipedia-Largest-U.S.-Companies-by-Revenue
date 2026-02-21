@@ -40,8 +40,8 @@ This project extracts data from the Wikipedia page “List of largest companies 
 📂 Data Access & Repository
 You can access the live dataset and the source code through the links below:
 * [Original Data Source](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
-* [Structured Dataset]()
-* [Source Code]()
+* [Structured Dataset](https://github.com/AdewoyinTemiloluwa/Web-Scraping-Wikipedia-Largest-U.S.-Companies-by-Revenue/blob/main/Companies.csv)
+* [Python Source Code](https://github.com/AdewoyinTemiloluwa/Web-Scraping-Wikipedia-Largest-U.S.-Companies-by-Revenue/blob/main/wikiwebscraping.ipynb)
 
 ---
 
